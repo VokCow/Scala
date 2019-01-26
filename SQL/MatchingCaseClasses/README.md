@@ -35,7 +35,7 @@ and the "select" method, which allow to retrieve information from two tables (ci
     (Netherlands,5180049)
     (Afghanistan,2332100)
 
-    Life Expectance per Region: 
+    Life Expectancy per Region: 
 
     (Western Africa,50)
     (Western Europe,77)
