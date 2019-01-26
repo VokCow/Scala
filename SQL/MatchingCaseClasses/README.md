@@ -16,7 +16,7 @@ and the "select" method, which allow to retrieve information from two tables (ci
  
  Even though, given the size of "World" database tables, the same results could also be achieved with simple SQL queries, when it comes
  to the huge datasets, commonplace in Big Data, one can leverage this feature of Scala and the fact that the SPARK project has an
- API for Scala to perform this kind of computations on really huge datasets along clusters of (as much as needed) nodes.
+ API for Scala to perform this kind of computations on really huge datasets along clusters of (as many as needed) nodes.
  
  There is the outcome of the code:
   
