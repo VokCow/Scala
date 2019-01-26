@@ -20,34 +20,34 @@ and the "select" method, which allow to retrieve information from two tables (ci
  
  There is the outcome of the code:
   
-  Population per Country: 
+      Population per Country: 
 
-(Argentina,16441940)
-(United Arab Emirates,1728336)
-(Antigua and Barbuda,24000)
-(Anguilla,1556)
-(Angola,2561600)
-(Andorra,21189)
-(American Samoa,7523)
-(Netherlands,5192179)
-(Albania,270000)
-(Netherlands Antilles,2345)
-(Netherlands,5180049)
-(Afghanistan,2332100)
+    (Argentina,16441940)
+    (United Arab Emirates,1728336)
+    (Antigua and Barbuda,24000)
+    (Anguilla,1556)
+    (Angola,2561600)
+    (Andorra,21189)
+    (American Samoa,7523)
+    (Netherlands,5192179)
+    (Albania,270000)
+    (Netherlands Antilles,2345)
+    (Netherlands,5180049)
+    (Afghanistan,2332100)
 
-Life Expectance per Region: 
+    Life Expectance per Region: 
 
-(Western Africa,50)
-(Western Europe,77)
-(Eastern Africa,46)
-(Middle East,67)
-(Australia and New Zealand,79)
-(Caribbean,74)
-(Antarctica,Unknown)
-(Polynesia,75)
-(South America,75)
-(Southern Europe,77)
-(Central Africa,38)
-(Southern and Central Asia,45)
+    (Western Africa,50)
+    (Western Europe,77)
+    (Eastern Africa,46)
+    (Middle East,67)
+    (Australia and New Zealand,79)
+    (Caribbean,74)
+    (Antarctica,Unknown)
+    (Polynesia,75)
+    (South America,75)
+    (Southern Europe,77)
+    (Central Africa,38)
+    (Southern and Central Asia,45)
 
-Process finished with exit code 0
+    Process finished with exit code 0
